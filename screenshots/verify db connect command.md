@@ -1,0 +1,1 @@
+psql -h database.cu89b3f2cbki.us-east-1.rds.amazonaws.com -U postgres -d postgres -W
